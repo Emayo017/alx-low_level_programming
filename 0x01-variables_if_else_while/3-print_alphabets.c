@@ -3,7 +3,7 @@
  * main - UPPER and lower case letter
  *
  * description: This is for UPPER and lower case letter
- * return (0);
+ * return 0;
  */
 int main(void)
 {
