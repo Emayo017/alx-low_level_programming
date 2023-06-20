@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include <main.h>
 /**
- * main - This program prints putchar
+ * main - This program prints _putchar
  *
- * description - Print putchar
+ * description - Print _putchar
  * return (0)
  */
 int main(void)
@@ -19,5 +18,5 @@ int main(void)
 		_putchar('a');
 		_putchar('r'\n);
 	}
-return 0;
+	return (0);
 }
